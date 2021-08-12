@@ -45,7 +45,7 @@ Machine Learning Deployment: AWS Cloud and Google Cloud Platform ( GCP )
 
 ### [Store Sales Prediction](https://github.com/brunasenra/Store_Sales_Prediction-Rossmann)
 
-Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. The delivered solution was a Telegram bot. The user just needed to send the store number and the bot would answer the predicted total sales that the store would made by the end of the next six weeks.
+Neste projeto era necessário prever a receita de cada uma das mais de 1.500 lojas Rossmann, visando a reforma em sua rede. Utilizei os dados históricos das lojas Rossmann para prever a receita alcançada ao longo das próximas 6 semanas. O modelo de regressão criado alcançou uma acurácia de  %. O produto final deste projeto foi entregue como um bot do Telegram para que fosse de fácil acesso para cada um dos responsáveis das lojas.
 
 Project repo: https://github.com/LeandroSoaresFaria/Predict-Time-Series
 
