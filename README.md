@@ -10,7 +10,7 @@ I met and started working with Python and developed a great interest in the area
 
 <p align="center">
     <a href="https://github.com/LeandroSoaresFaria" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@LeandroSoaresFaria-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/bruna-senra-faria/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/leandrosoaresfaria/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 ---
 
