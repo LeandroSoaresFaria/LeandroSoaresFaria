@@ -98,7 +98,7 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
       </td>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>statsmodels</span><br><br>
+        <span>streamlit</span><br><br>
         <img height="64px" src="https://tecnothink.com.br/wp-content/uploads/2020/11/Streamlit_Logo_1.jpg">
       </td>    
     </tr>
