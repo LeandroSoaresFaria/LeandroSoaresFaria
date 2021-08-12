@@ -2,7 +2,7 @@
 
 Data Scientist
 
-Olá, sou Leandro Faria, um cientista de dados graduado em física pela UERJe comecei a estudar ciência de dados  no ano de 2019. Atualmente trabalho em projetos end-to-end de empresas para aumentar minha prática de negócio. Meu objetivo principal é construir produtos de dados com machine learning para gerar insights, otimizar o trabalho da equipe e gerar lucro para a empresa.
+Olá, sou Leandro Faria, um cientista de dados graduado em física pela UERJ e comecei a estudar ciência de dados  no ano de 2019. Atualmente trabalho em projetos end-to-end de empresas para aumentar minha prática de negócio. Meu objetivo principal é construir produtos de dados com machine learning para gerar insights, otimizar o trabalho da equipe e gerar lucro para a empresa.
 
 Tenho domínio de todas as etapas do desenvolvimento de uma solução de negócios utilizando os conceitos e ferramentas da Data Science, desde o entendimento do negócio até a publicação do modelo em produção utilizando Clouds.
 
