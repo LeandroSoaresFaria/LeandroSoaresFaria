@@ -54,7 +54,7 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>pandas</span><br><br>
+        <span>Pandas</span><br><br>
         <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
       </td>
       <td width="25%" align="center">
@@ -68,11 +68,11 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
         <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
       </td>
       <td width="25%" align="center">
-        <span>seaborn</span><br><br>
+        <span>Seaborn</span><br><br>
         <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
       </td>
       <td width="25%" align="center">
-        <span>scikit-learn</span><br><br>
+        <span>Scikit-learn</span><br><br>
         <img height="64px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
       </td>
       <td width="25%" align="center">
@@ -81,7 +81,7 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
       </td>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>statsmodels</span><br><br>
+        <span>Statsmodels</span><br><br>
         <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
       </td>
       <td width="25%" align="center">
@@ -98,7 +98,7 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
       </td>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>streamlit</span><br><br>
+        <span>Streamlit</span><br><br>
         <img height="64px" src="https://tecnothink.com.br/wp-content/uploads/2020/11/Streamlit_Logo_1.jpg">
       </td>    
     </tr>
