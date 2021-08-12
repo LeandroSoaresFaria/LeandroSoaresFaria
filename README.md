@@ -37,33 +37,7 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
 
 <br>
 
-### [Cardiovascular Disease Detection](https://github.com/brunasenra/Cardiovascular-Disease-Detection)
 
-The diagnosis of Cadio Catch Diseases company need to create a tool that increases the accuracy of the diagnosis and that this accuracy is stable for all diagnoses.
-In this project, I developed a Machine Learning model able to detect disease in early stages with 73.36% accuracy over 70k patience.
-The performance of this model would increase revenue of R$65 millions according to the company's business model described in the problem definition.
-
-Project repo: https://github.com/brunasenra/Cardiovascular-Disease-Detection
-
-<br>
-
-## Data Anaysis - Insight Projets:
-    
-### [Drilling Performance](https://github.com/brunasenra/Drilling_performance)
-
-Determination of the slip connection performance during the drilling process during the 4 months of activity of a well.
-    
-Project repo: https://github.com/brunasenra/Drilling_performance
-
-<br>
-    
-### [California Crime Compendium](https://github.com/brunasenra/California-Crime-Compendium)
-
-Through data analysis, the locations with the highest crime rate in the 4 groups are presented: agencies, universities, cities and countys.
-
-Project repo: https://github.com/brunasenra/California-Crime-Compendium
-
-<br>
 ---
 
 # Tools
@@ -122,6 +96,11 @@ Project repo: https://github.com/brunasenra/California-Crime-Compendium
         <span>XGBoost</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png">
       </td>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>statsmodels</span><br><br>
+        <img height="64px" src="https://tecnothink.com.br/wp-content/uploads/2020/11/Streamlit_Logo_1.jpg">
+      </td>    
     </tr>
   </tbody>
 </table>
