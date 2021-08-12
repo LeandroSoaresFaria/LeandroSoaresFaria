@@ -102,7 +102,12 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
       <td width="25%" align="center">
         <span>Streamlit</span><br><br>
         <img height="64px" src="https://tecnothink.com.br/wp-content/uploads/2020/11/Streamlit_Logo_1.jpg">
-      </td>    
+      <td width="25%" align="center">
+        <span>Streamlit</span><br><br>
+        <img height="64px" src="https://www.cetax.com.br/blog/wp-content/uploads/2016/10/PowerBI-e1557666264791.jpg">
+        
+        
+        </td>    
     </tr>
   </tbody>
 </table>
