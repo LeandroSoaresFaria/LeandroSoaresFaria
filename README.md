@@ -2,11 +2,17 @@
 
 Data Scientist
 
-I graduated in Physics from the Universidade do Estado do Rio de Janeiro (UERJ), in 2020. Currently work at the Olimpíada Brasileira de Astronomia e Astronáutica (OBA), where I coordinate a project that serves around 30 thousand people per year, manage a team of 20 interns and train new teams and teach courses and lectures in the area. I have 10 years of experience with data collection and processing, budget projects, accountability etc.
+Olá, sou Leandro Faria, um cientista de dados graduado em física pela UERJe comecei a estudar ciência de dados  no ano de 2019. Atualmente trabalho em projetos end-to-end de empresas para aumentar minha prática de negócio. Meu objetivo principal é construir produtos de dados com machine learning para gerar insights, otimizar o trabalho da equipe e gerar lucro para a empresa.
 
-I have experience with data analysis and processing applied in experimental physics, in the area of stellar astrophysics, and wrote my monograph with the theme: orbital analysis of spectroscopic binary star systems, where I used Python programming tools and time series, to define orbital parameters.
+Tenho domínio de todas as etapas do desenvolvimento de uma solução de negócios utilizando os conceitos e ferramentas da Data Science, desde o entendimento do negócio até a publicação do modelo em produção utilizando Clouds.
 
-I met and started working with Python and developed a great interest in the area of data analysis. I took courses and identified myself with data science. I am fascinated by the power of machine learning tools, I am creative, proactive, dedicated and I enjoy working as a team. I learned a lot and I’m still learning with every project that I collaborate and every people that I know.
+Já desenvolvi soluções para problemas de negócio como  previsão de vendas e geração de insights para revendas.
+
+Aprecio colaborar com projetos que mudam a maneira como as empresas e indústrias operam para causar um impacto positivo nas pessoas.
+Aprendi muito e ainda estou aprendendo com cada projeto que colaboro e com todas as pessoas que conheço.
+
+Os detalhes de cada solução estão descritos nos projetos a seguir.
+
 
 ---
 
@@ -18,13 +24,13 @@ I met and started working with Python and developed a great interest in the area
 
 ## Background in:
 
-Python
-
-Data Science
-
-Data Analytics
-
-Machine Learning
+Analytical Tools:
+Data Collect and Storage: SQL, MySQL, Postgres, SQL Server.
+Data Processing and Analysis: R, Python, Spark, Airflow, Databricks, Logstash, Nifi, Dbt and Stitch.
+Development: Git, Scrum, Linux.
+Data Vizualization: Tableau, Looker, Power BI.
+Machine Learning Modeling: Classification, Regression, Clustering, Time Series, Reinforcement Learning, RecSys and NLP.
+Machine Learning Deployment: AWS Cloud and Google Cloud Platform ( GCP )
 
 ---
 # Projects
