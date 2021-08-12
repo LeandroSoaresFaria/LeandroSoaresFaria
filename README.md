@@ -27,10 +27,15 @@ Os detalhes de cada solução estão descritos nos projetos a seguir.
 Analytical Tools:
     
 Data Collect and Storage: SQL, MySQL, Postgres, SQL Server.
+
 Data Processing and Analysis: R, Python, Spark, Airflow, Databricks, Logstash, Nifi, Dbt and Stitch.
+
 Development: Git, Scrum, Linux.
+
 Data Vizualization: Tableau, Looker, Power BI.
+
 Machine Learning Modeling: Classification, Regression, Clustering, Time Series, Reinforcement Learning, RecSys and NLP.
+
 Machine Learning Deployment: AWS Cloud and Google Cloud Platform ( GCP )
 
 ---
