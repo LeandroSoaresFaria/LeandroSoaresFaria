@@ -103,11 +103,13 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
         <span>Streamlit</span><br><br>
         <img height="64px" src="https://tecnothink.com.br/wp-content/uploads/2020/11/Streamlit_Logo_1.jpg">
       <td width="25%" align="center">
-        <span>Streamlit</span><br><br>
+        <span>Power BI</span><br><br>
         <img height="64px" src="https://www.cetax.com.br/blog/wp-content/uploads/2016/10/PowerBI-e1557666264791.jpg">
-        
-        
-        </td>    
+       </td>
+      <td width="25%" align="center">
+        <span>Spark</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
+       </td>        
     </tr>
   </tbody>
 </table>
