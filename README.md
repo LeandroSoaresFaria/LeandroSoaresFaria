@@ -110,7 +110,6 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
         <span>Spark</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
        </td>
-
       <td width="25%" align="center">
         <span>Tableu</span><br><br>
         <img height="64px" src="https://img.ibxk.com.br/2019/08/12/12154604838117.jpg">
