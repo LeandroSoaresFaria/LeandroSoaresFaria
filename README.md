@@ -74,8 +74,10 @@ A House Rocket é uma plataforma digital que tem como modelo de negócio, a comp
     
     
 Project repo:https://github.com/LeandroSoaresFaria/Home-sale-project
+
 Web-app: https://hou-rocket.herokuapp.com/
-<br>
+
+    <br>
     
     
 ---
