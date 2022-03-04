@@ -51,6 +51,16 @@ Project repo: https://github.com/LeandroSoaresFaria/Predict-Time-Series
 
 <br>
 
+### [Store Sales Prediction]
+
+A empresa apresentava uma variação de precisão que em alguns casos causava prejuizo. O objetivo do projeto foi criar uma ferramenta que aumenta a precisão do diagnóstico para maximizar os lucros.
+O LGBMClassifier gerou uma precisão média de 73,36% com desempenho estável; O modelo tem uma precisão de 74,88%, quase 10% de melhoria em relação à análise manual atual (65%); Considerando um banco de dados de 70.000 pacientes, a receita pode chegar a R$ 169.680.000,00, quase 65 milhões a mais que a receita atual melhor; Mesmo no pior cenário, a receita pode chegar a R$ 157.360.000,00 até 52 milhões de reais a mais do que o melhor cenário atual;    
+    
+    
+    
+Project repo: https://github.com/LeandroSoaresFaria/CARDIOVASCULAR-CATH-DISEASE/blob/main/notebooks/Ciclo_09_LSF.ipynb
+
+<br>
 
 ---
 
