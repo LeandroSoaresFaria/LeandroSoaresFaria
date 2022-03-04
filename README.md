@@ -61,13 +61,16 @@ O LGBMClassifier gerou uma precisão média de 73,36% com desempenho estável; O
 Project repo: https://github.com/LeandroSoaresFaria/CARDIOVASCULAR-CATH-DISEASE
 
 <br>
+    
 ### [Home sale project](https://github.com/LeandroSoaresFaria/Home-sale-project)
 
 A House Rocket é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia. Sua principal estratégia é comprar boas casas em ótimas localizações com preços baixos e depois revendê-las posteriormente à preços mais altos. Quanto maior a diferença entre a compra e a venda, maior o lucro da empresa e, portanto, maior sua receita. Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrativas aos compradores e vendedores e a localização e o período do ano também podem influenciar os preços. A seguir vamos responder as seguintes perguntas:
 
-1 Quais recursos de uma casa mais impactam no preço?
-2 A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças ?
-3 Uma vez a casa em posse da empresa, quais são as melhores características para sua venda?
+    1 Quais recursos de uma casa mais impactam no preço?
+
+    2 A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças ?
+
+    3 Uma vez a casa em posse da empresa, quais são as melhores características para sua venda?
     
     
 Project repo:https://github.com/LeandroSoaresFaria/Home-sale-project
