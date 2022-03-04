@@ -77,7 +77,7 @@ Project repo:https://github.com/LeandroSoaresFaria/Home-sale-project
 
 Web-app: https://hou-rocket.herokuapp.com/
 
-    <br>
+<br>
     
     
 ---
