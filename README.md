@@ -1,6 +1,6 @@
 # Hello! I'm Leandro Soares Faria. 
 
-Data Scientist
+Data Scientist at EDG
 
 Olá, sou Leandro Faria, um cientista de dados graduado em física pela UERJ e comecei a estudar ciência de dados  no ano de 2019. Atualmente trabalho em projetos end-to-end de empresas para aumentar minha prática de negócio. Meu objetivo principal é construir produtos de dados com machine learning para gerar insights, otimizar o trabalho da equipe e gerar lucro para a empresa.
 
