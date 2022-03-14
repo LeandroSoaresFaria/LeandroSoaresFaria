@@ -2,7 +2,12 @@
 
 Data Scientist at EDG
 
-Olá, sou Leandro Faria, um cientista de dados graduado em física pela UERJ e comecei a estudar ciência de dados  no ano de 2019. Atualmente trabalho em projetos end-to-end de empresas para aumentar minha prática de negócio. Meu objetivo principal é construir produtos de dados com machine learning para gerar insights, otimizar o trabalho da equipe e gerar lucro para a empresa.
+Olá, sou Leandro Faria
+
+Sou cientista de dados na EGD, empresa de marketing, onde estruturei toda a área de dados da empresa. Meu trabalho vai desde a aquisição de dados até a implantação de modelos em produção para
+clientes. No processo, realizo limpeza e tratamento de dados, análise de dados com insights para
+negócios, modelos preditivos e reuniões com equipe e clientes para alinhamento e
+apresentação de resultados.
 
 Tenho domínio de todas as etapas do desenvolvimento de uma solução de negócios utilizando os conceitos e ferramentas da Data Science, desde o entendimento do negócio até a publicação do modelo em produção utilizando Clouds.
 
