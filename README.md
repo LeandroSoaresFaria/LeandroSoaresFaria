@@ -106,7 +106,7 @@ Web-app: https://hou-rocket.herokuapp.com/
       </td>
       <td width="25%" align="center">
         <span>NumPy</span><br><br>
-        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
+        <img height="64px" src="https://numpy.org/images/logo.svg">
       </td>
     </tr>
     <tr valign="top">
