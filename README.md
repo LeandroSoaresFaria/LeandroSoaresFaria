@@ -1,8 +1,10 @@
-# Hello! I'm Leandro Soares Faria. 
+# Olá! Sou Leandro Soares Faria. 
 
-Data Scientist at EDG
+Data Scientist na HEINKEN
 
 Olá, sou Leandro Faria
+
+Workin in progress
 
 Sou cientista de dados na EGD, empresa de marketing, onde estruturei toda a área de dados da empresa. Meu trabalho vai desde a aquisição de dados até a implantação de modelos em produção para
 clientes. No processo, realizo limpeza e tratamento de dados, análise de dados com insights para
